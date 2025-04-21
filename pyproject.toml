@@ -30,7 +30,7 @@ classifiers = [
 dynamic = ["version", "dependencies"]
 
 [project.urls]
-#Documentation = ""
+Documentation = "https://uncle-nelson.readthedocs.io/latest/"
 Repository = "https://github.com/codeofandrin/uncle-nelson"
 Issues = "https://github.com/codeofandrin/uncle-nelson/issues"
 
