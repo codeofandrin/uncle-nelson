@@ -44,9 +44,7 @@ class Mix(NamedTuple):
 
 
 def calculate_mix(drug: DrugType, ingredients: List[IngredientType]) -> Mix:
-    """
-
-
+    """Calculates a mix based on a :class:`.DrugType` and a list of :class:`.IngredientType`.
 
     Parameters
     -----------
@@ -68,8 +66,6 @@ def calculate_mix(drug: DrugType, ingredients: List[IngredientType]) -> Mix:
             .. code-block:: python3
 
                 mix = calculate_mix(..., [IngredientType.banana, IngredientType.cuke])
-
-
 
     Returns
     -------
