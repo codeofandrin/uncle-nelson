@@ -12,7 +12,7 @@ v0.2.0
 
 Misc
 ~~~~
--  Add missing project description to `pyproject.toml`
+-  Add missing project description to ``pyproject.toml``
 -  Add missing docs description to :func:`.calculate_mix`
 
 
